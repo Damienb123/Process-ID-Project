@@ -1,1 +1,1 @@
-# Process-ID-Project
+This projects demonstrates Process Control and I/O features, in the project we display the usage of getpid() and petppid() functions to retrieve the process ID and the parent process ID. The program is modified to write the process ID's to a file instead of only printing them to the console. This program will include an example of reading contents of that file (process_ids.txt) to display the ID's, and it's used as a place holder and can be customized to use any other text file.
