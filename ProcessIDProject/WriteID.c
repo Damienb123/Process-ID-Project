@@ -1,9 +1,9 @@
-//demonstrates the usage of getpid() and getppid() functions
+//Demonstrates the usage of getpid() and getppid() functions
 //to retrieve the process ID and the parent process ID.
 //The program is modified to write the process ID's to a file instead
 //of only printing them to the console. This program will include an 
 //example of reading contents of that file (process_ids.txt) to display
-//the ID's it is used as a place holder and can customized to use any other text file
+//the ID's. It's used as a place holder and can be customized to use any other text file.
 
 #include <stdio.h>
 //functions require <unistd.h>
